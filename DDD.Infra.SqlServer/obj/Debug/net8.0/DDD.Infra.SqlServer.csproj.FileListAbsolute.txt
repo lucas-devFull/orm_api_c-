@@ -1,0 +1,17 @@
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/obj/Debug/net8.0/DDD.Infra.SqlServer.csproj.AssemblyReference.cache
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/obj/Debug/net8.0/DDD.Infra.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/obj/Debug/net8.0/DDD.Infra.SqlServer.AssemblyInfoInputs.cache
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/obj/Debug/net8.0/DDD.Infra.SqlServer.AssemblyInfo.cs
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/obj/Debug/net8.0/DDD.Infra.SqlServer.csproj.CoreCompileInputs.cache
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/bin/Debug/net8.0/DDD.Infra.SqlServer.deps.json
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/bin/Debug/net8.0/DDD.Infra.SqlServer.runtimeconfig.json
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/bin/Debug/net8.0/DDD.Infra.SqlServer.dll
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/bin/Debug/net8.0/DDD.Infra.SqlServer.pdb
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/bin/Debug/net8.0/DDD.Domain.dll
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/bin/Debug/net8.0/DDD.Domain.pdb
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/obj/Debug/net8.0/DDD.Infr.21B23ADC.Up2Date
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/obj/Debug/net8.0/DDD.Infra.SqlServer.dll
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/obj/Debug/net8.0/refint/DDD.Infra.SqlServer.dll
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/obj/Debug/net8.0/DDD.Infra.SqlServer.pdb
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/obj/Debug/net8.0/DDD.Infra.SqlServer.genruntimeconfig.cache
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Infra.SqlServer/obj/Debug/net8.0/ref/DDD.Infra.SqlServer.dll

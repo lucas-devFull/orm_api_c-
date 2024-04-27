@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5EauZfTVjbCiiS/vxKsRpNlUrqGh9CVuZKuOGkzcfDM=",
+  "Source": "DDD.Application.API",
+  "BasePath": "_content/DDD.Application.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

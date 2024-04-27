@@ -1,0 +1,11 @@
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Domain/bin/Debug/net8.0/DDD.Domain.deps.json
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Domain/bin/Debug/net8.0/DDD.Domain.dll
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Domain/bin/Debug/net8.0/DDD.Domain.pdb
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Domain/obj/Debug/net8.0/DDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Domain/obj/Debug/net8.0/DDD.Domain.AssemblyInfoInputs.cache
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Domain/obj/Debug/net8.0/DDD.Domain.AssemblyInfo.cs
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Domain/obj/Debug/net8.0/DDD.Domain.csproj.CoreCompileInputs.cache
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Domain/obj/Debug/net8.0/DDD.Domain.dll
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Domain/obj/Debug/net8.0/refint/DDD.Domain.dll
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Domain/obj/Debug/net8.0/DDD.Domain.pdb
+/home/lucas/Área de Trabalho/pos_fullstack_orm/DDD.Domain/obj/Debug/net8.0/ref/DDD.Domain.dll
